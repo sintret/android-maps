@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-project\abas\SPBUBogor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\android-project\abas\SPBUBogor\app\build\intermediates\pre-dexed\debug\classes-79e2fa384e315461a8a172b862ac2772e4e3250f.jar" />
+    </item>
+    <item
+        jar="D:\android-project\abas\SPBUBogor\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="D:\android-project\abas\SPBUBogor\app\build\intermediates\pre-dexed\debug\classes-1d9b67ac32c4700a7c115e28099d1fd71e1dbd3c.jar" />
+    </item>
+    <item
+        jar="D:\android-project\abas\SPBUBogor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="D:\android-project\abas\SPBUBogor\app\build\intermediates\pre-dexed\debug\classes-28fd06e912efd968db4c6db05b94b85de60e48d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\andy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\android-project\abas\SPBUBogor\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-950e471d3e6f21ce677507e6b920c27a7b1c0a25.jar" />
+    </item>
+    <item
+        jar="D:\android-project\abas\SPBUBogor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\android-project\abas\SPBUBogor\app\build\intermediates\pre-dexed\debug\classes-3b08aae7330a3ce5e089fab0191408d82d376432.jar" />
+    </item>
+    <item
+        jar="D:\android-project\abas\SPBUBogor\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="D:\android-project\abas\SPBUBogor\app\build\intermediates\pre-dexed\debug\classes-30fb096b18f999cf36427d304ddc50127406be08.jar" />
+    </item>
+    <item
+        jar="D:\android-project\abas\SPBUBogor\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\android-project\abas\SPBUBogor\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-4e29a88e99419c14481bcdd35562a5148f7697a6.jar" />
+    </item>
+
+</items>

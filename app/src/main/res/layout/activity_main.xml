@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#93c8fa"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.googlemap.MainActivity$PlaceholderFragment" >
+
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button3"
+        android:layout_alignRight="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+
+        android:drawableTop="@drawable/exit"
+
+        android:textColor="#2792f6"
+        android:typeface="monospace"
+        android:text="Exit"
+        android:textStyle="bold"
+        style="?android:attr/borderlessButtonStyle" />
+
+    <Button
+        android:id="@+id/button3"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="49dp"
+        android:drawableTop="@drawable/infohome"
+        android:onClick="onClick"
+        android:text="Tentang"
+        android:textColor="#2792f6"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/button2"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button3"
+        android:layout_alignParentRight="true"
+        android:drawableTop="@drawable/infospbu"
+        android:onClick="onClick"
+        android:text="Info SPBU"
+        android:textColor="#2792f6"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/button1"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="23dp"
+        android:layout_marginTop="68dp"
+        android:drawableTop="@drawable/iconmap"
+        android:onClick="onClick"
+        android:text="Map SPBU "
+        android:textColor="#2792f6"
+        android:typeface="monospace" />
+
+</RelativeLayout>
